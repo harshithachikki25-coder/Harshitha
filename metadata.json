@@ -1,0 +1,6 @@
+{
+  "name": "Campus Event Analytics Dashboard",
+  "description": "Interactive analytics platform for college event data, participation trends, department performance, capacity utilization, budgets, and student feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
